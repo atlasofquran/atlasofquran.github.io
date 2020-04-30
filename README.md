@@ -6,9 +6,12 @@ The Atlas-of-Quran (AoQ) contains:
 3. Provides relevant Quranic verses and Ahadees
 4. Provides other resources like images, references to related topics & research and links to wiki pages
 
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
-  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AKtMmF6irJSPxsZU20bz5zJvfo8UKELU" width="100%" height="100%"></iframe>
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AKtMmF6irJSPxsZU20bz5zJvfo8UKELU" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 </div>
 
