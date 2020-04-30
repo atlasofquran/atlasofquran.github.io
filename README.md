@@ -1,8 +1,11 @@
 ## Welcome to Atlas-of-Quran
 
-You can use the [editor on GitHub](https://github.com/atlasofquran/atlasofquran.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Atlas-of-Quran (AoQ) contains:
+1. Interactive world map
+2. Highlights the places and people mentioned in the Quran
+3. Provides relevant Quranic verses and Ahadees
+4. Provides other resources like images, references to related topics & research and links to wiki pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
