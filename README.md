@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Atlas-of-Quran
 
 You can use the [editor on GitHub](https://github.com/atlasofquran/atlasofquran.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1: Atlas-of-Quran is an interactive atlas of various places that find a mention in Holy Quran.
 ## Header 2
 ### Header 3
 
