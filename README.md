@@ -1,5 +1,3 @@
-title: Welcome to Atlas-of-Quran
-
 ## Welcome to Atlas-of-Quran
 
 The Atlas-of-Quran (AoQ) contains:
