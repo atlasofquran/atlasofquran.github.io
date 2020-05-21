@@ -60,8 +60,8 @@ We do understand the contestations with regard to the present day world map, its
 
 ### Connect/Contribute:  
 Thank you for exploring Atlas of Quran. How did you find it? Would you like to contribute in these efforts?  
-Please fill this [form to give your feedback or express interest to volunteer!](https://forms.gle/xfmx3A2fMrLpy9aJ6)     Alternatively, you can also directly send request and contribute on GitHub.  
-
+Please fill this [form to give your feedback or express interest to volunteer!](https://forms.gle/xfmx3A2fMrLpy9aJ6)  
+Alternatively, you can also directly send request and contribute on GitHub.  
 
 **Curators:**
 Ayesha Gohar & Sadaqat Mulla  
@@ -71,6 +71,6 @@ Ayesha Gohar & Sadaqat Mulla
 ![Email](/assets/images/Email-icon-blue.svg) digitalquranlab@gmail.com  
 ![GitHub-logo](/assets/images/20x-github.svg) https://github.com/atlasofquran
 
-Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).  
+*Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).*  
 
 Last updated on:  May 21, 2020
