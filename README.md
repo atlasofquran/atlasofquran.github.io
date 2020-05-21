@@ -67,7 +67,7 @@ Alternatively, you can also directly send request and contribute on GitHub.
 Ayesha Gohar & Sadaqat Mulla  
 
 
-![copyleft](/assets/images/20x-Copyleft.svg) Atlas of Quran (AoQ) is a project of ![Website](/assets/images/website-icon.svg) [DigitalQuranLab!](https://quranlab.github.io/)    
+![copyleft](/assets/images/20x-Copyleft.svg) Atlas of Quran (AoQ) is a project of ![Website](/assets/images/website-icon.svg) [DigitalQuranLab!](https://digitalquranlab.github.io/)    
 ![Email](/assets/images/Email-icon-blue.svg) digitalquranlab@gmail.com  
 ![GitHub-logo](/assets/images/20x-github.svg) https://github.com/atlasofquran
 
