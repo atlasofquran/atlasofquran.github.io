@@ -1,6 +1,6 @@
-<!-- ## Welcome to Atlas-of-Quran -->
+<!-- ## Welcome to Atlas-of-Quran --> 
 <p align="center">
-  <img width="80%" height="80%" src="/assets/images/AoQ-shair-website.png">
+  <img width="80%" height="80%" src="/assets/images/AoQ-shair-website-urdu-eng.png">
 </p>
 <p align="center">
   <img width="80%" height="80%" src="/assets/images/aoq-logo-large.png">
@@ -11,7 +11,7 @@
 
 ## Objectives:
 To showcase all the Quranic places, people and prophets in an interactive world map. Such a placement of Quranic anthropology would help in developing a geo-spatial understanding in the reader of Quran. This, we hope, would compel the reader to ponder over new perspectives and ask some new questions which otherwise, in a paper-only representation, may be difficult to venture upon.  
-We do understand the contestations with regard to the present day world map, its genesis and eurocentrism/critism. We hope that the readers would consider these nuances while reading the present day world map in general and specifically the interactive Atlas of Quran.
+We do understand the contestations with regard to the present day world map. We hope that the readers would consider these nuances while exploring the interactive Atlas of Quran.
 
 ### Atlas of Quran (AoQ) offers:
 1. An interactive world map.
