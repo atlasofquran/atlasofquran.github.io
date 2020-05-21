@@ -2,23 +2,25 @@
 <p align="center">
   <img width="80%" height="80%" src="/assets/images/AoQ-shair-website.png">
 </p>
+<p align="center">
+  <img width="80%" height="80%" src="/assets/images/aoq-logo-large.png">
+</p>
+
 <!-- ->![Nuzool-e-Quran-shair](/assets/images/AoQ-shair-website.png)<- -->
-
-![Atlas-of-Quran-Logo-large](/assets/images/aoq-logo-large.png)
-
+<!-- ![Atlas-of-Quran-Logo-large](/assets/images/aoq-logo-large.png) -->
 
 ## Objectives:
-To provide/showcase all the places, people and prophets in an interactive world map. Such a placement of Quranic anthropology would help in developing a geo-spatial understanding in the reader of Quran. This, we hope, would compel the reader to ponder over new perspectives and ask some new questions which otherwise, in a paper-only representation, may be difficult venture upon.  
-We also understand the contestations with regard to the present day world map, its genesis and eurocentrism/critism. We hope that the readers consider these nuances while reading the present day world map in general and specifically the interactive Atlas of Quran.
+To showcase all the Quranic places, people and prophets in an interactive world map. Such a placement of Quranic anthropology would help in developing a geo-spatial understanding in the reader of Quran. This, we hope, would compel the reader to ponder over new perspectives and ask some new questions which otherwise, in a paper-only representation, may be difficult to venture upon.  
+We do understand the contestations with regard to the present day world map, its genesis and eurocentrism/critism. We hope that the readers would consider these nuances while reading the present day world map in general and specifically the interactive Atlas of Quran.
 
 ### Atlas of Quran (AoQ) offers:
-1. An interactive world map
-2. Geo-locations of prophets, places and people mentioned in the Quran
-3. Relevant Quranic verses and Ahadees
-4. Other resources like images, references to related topics & research  
-5. An interactive network graph of Quranic topics, prophets, people and places.
+1. An interactive world map.
+2. Geo-locations of prophets, places and people mentioned in the Quran.
+3. Relevant Quranic verses and Ahadees.
+4. Other resources like images, references to related topics & research.  
+5. An interactive network graph of Quranic topics, prophets, people and places.  
 
-The attempt here is to present a model of newer way of intimately engagement with Quran and embarking on new journeys of Quranic exploration and meaning making.
+> The attempt here is to demonstrate a model of newer ways of cultivating intimate engagement with Quran and embarking on unique journeys of Quranic exploration and meaning making.
 
 
 ## 1. Explore the atlas below
@@ -27,7 +29,8 @@ The attempt here is to present a model of newer way of intimately engagement wit
 </style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1h5v16ahHjdMNWt3deXH0zEXD6wErVpF2" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1h5v16ahHjdMNWt3deXH0zEXD6wErVpF2" width="100%" height="100%" allowfullscreen>
+</iframe>
 <!-- Google embed ends -->
 </div>  
 
@@ -66,6 +69,8 @@ Ayesha Gohar & Sadaqat Mulla
 
 ![copyleft](/assets/images/20x-Copyleft.svg) Atlas of Quran (AoQ) is a project of :earth_asia: [DigitalQuranLab](https://quranlab.github.io/)    
 :email: digitalquranlab@gmail.com  
-[[GitHub-logo](/assets/images/20x-github.svg)!](https://github.com/atlasofquran)
+![GitHub-logo](/assets/images/20x-github.svg) https://github.com/atlasofquran
 
-Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0)
+Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).  
+
+Last updated on:  May 21, 2020
