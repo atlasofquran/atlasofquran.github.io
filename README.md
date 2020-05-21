@@ -29,7 +29,7 @@ We do understand the contestations with regard to the present day world map, its
 </style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1h5v16ahHjdMNWt3deXH0zEXD6wErVpF2" width="100%" height="100%" allowfullscreen>
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1h5v16ahHjdMNWt3deXH0zEXD6wErVpF2" width="100%" height="480" allowfullscreen>
 </iframe>
 <!-- Google embed ends -->
 </div>  
@@ -67,8 +67,8 @@ Please fill this [form to give your feedback or express interest to volunteer!](
 Ayesha Gohar & Sadaqat Mulla  
 
 
-![copyleft](/assets/images/20x-Copyleft.svg) Atlas of Quran (AoQ) is a project of :earth_asia: [DigitalQuranLab](https://quranlab.github.io/)    
-:email: digitalquranlab@gmail.com  
+![copyleft](/assets/images/20x-Copyleft.svg) Atlas of Quran (AoQ) is a project of ![Website](/assets/images/website-icon.svg) [DigitalQuranLab!](https://quranlab.github.io/)    
+![Email](/assets/images/Email-icon-blue.svg) digitalquranlab@gmail.com  
 ![GitHub-logo](/assets/images/20x-github.svg) https://github.com/atlasofquran
 
 Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA 4.0).  
